@@ -1,0 +1,55 @@
+[2024-03-24 22:13:28.731] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:14:55.021] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:16:19.280] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:17:25.803] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:20:04.333] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:20:20.229] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:20:32.861] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:22:14.243] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:48:22.608] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:48:22.608] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:57:21.676] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:57:21.676] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 22:58:28.097] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/web_text_zh_test.json，共68341行，处理后剩余42124行，保存到文件：/root/LLM/code/first/data/my_data/my_web_text_zh.parquet。耗时：66.4186s
+[2024-03-24 22:58:28.097] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/web_text_zh_test.json，共68341行，处理后剩余42124行，保存到文件：/root/LLM/code/first/data/my_data/my_web_text_zh.parquet。耗时：66.4186s
+[2024-03-24 22:58:28.101] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_train.json
+[2024-03-24 22:58:28.101] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_train.json
+[2024-03-24 23:03:50.235] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/web_text_zh_train.json，共4121624行，处理后剩余2540865行，保存到文件：/root/LLM/code/first/data/my_data/my_web_text_zh.parquet。耗时：322.133s
+[2024-03-24 23:03:50.235] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/web_text_zh_train.json，共4121624行，处理后剩余2540865行，保存到文件：/root/LLM/code/first/data/my_data/my_web_text_zh.parquet。耗时：322.133s
+[2024-03-24 23:03:50.237] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_valid.json
+[2024-03-24 23:03:50.237] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_valid.json
+[2024-03-24 23:03:55.547] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/web_text_zh_valid.json，共68345行，处理后剩余41927行，保存到文件：/root/LLM/code/first/data/my_data/my_web_text_zh.parquet。耗时：5.30829s
+[2024-03-24 23:03:55.547] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/web_text_zh_valid.json，共68345行，处理后剩余41927行，保存到文件：/root/LLM/code/first/data/my_data/my_web_text_zh.parquet。耗时：5.30829s
+[2024-03-24 23:53:23.395] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_test.json
+[2024-03-24 23:53:26.857] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/web_text_zh_test.json，共68341行，处理后剩余42124行，保存到文件：/root/LLM/code/first/data/my_data/my_web_text_zh.parquet。耗时：3.46067s
+[2024-03-24 23:53:26.857] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_train.json
+[2024-03-24 23:56:50.785] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/web_text_zh_train.json，共4121624行，处理后剩余2540865行，保存到文件：/root/LLM/code/first/data/my_data/my_web_text_zh.parquet。耗时：203.927s
+[2024-03-24 23:56:50.785] [INFO]: process file:/root/LLM/code/first/data/raw_data/web_text_zh_valid.json
+[2024-03-24 23:56:54.170] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/web_text_zh_valid.json，共68345行，处理后剩余41927行，保存到文件：/root/LLM/code/first/data/my_data/my_web_text_zh.parquet。耗时：3.38432s
+[2024-03-24 23:56:54.171] [INFO]: process file:/root/LLM/code/first/data/raw_data/baike_qa_train.json
+[2024-03-25 00:00:11.491] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/baike_qa_train.json，共1425170行，处理后剩余1281860行，保存到文件：/root/LLM/code/first/data/my_data/my_baike_qa.parquet。耗时：197.32s
+[2024-03-25 00:00:11.492] [INFO]: process file:/root/LLM/code/first/data/raw_data/baike_qa_valid.json
+[2024-03-25 00:00:17.519] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/baike_qa_valid.json，共44972行，处理后剩余40439行，保存到文件：/root/LLM/code/first/data/my_data/my_baike_qa.parquet。耗时：6.02681s
+[2024-03-25 00:00:18.740] [INFO]: process file: /root/LLM/code/first/data/raw_data/zhihu-kol/train-00004-of-00005-c374cc9fbda9fda7.parquet
+[2024-03-25 00:01:14.744] [INFO]: process file: /root/LLM/code/first/data/raw_data/zhihu-kol/train-00003-of-00005-1dae36b67c12169f.parquet
+[2024-03-25 00:02:09.749] [INFO]: process file: /root/LLM/code/first/data/raw_data/zhihu-kol/train-00001-of-00005-1fc2da944397e9c2.parquet
+[2024-03-25 00:03:09.124] [INFO]: process file: /root/LLM/code/first/data/raw_data/zhihu-kol/train-00000-of-00005-a1278ede4e8c5cdb.parquet
+[2024-03-25 00:04:08.029] [INFO]: process file: /root/LLM/code/first/data/raw_data/zhihu-kol/train-00002-of-00005-68ced004a1458143.parquet
+[2024-03-25 00:05:06.260] [INFO]: save file to: /root/LLM/code/first/data/my_data/zhihu_kol.parquet, 全部数据共1006218行，清洗后剩余973200行
+[2024-03-25 00:05:06.265] [INFO]: process file:/root/LLM/code/first/data/raw_data/bell_open_source/train_2M_CN.json
+[2024-03-25 00:09:08.586] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/bell_open_source/train_2M_CN.json，共2000000行，处理后剩余1731148行，保存到文件：/root/LLM/code/first/data/my_data/my_belll_3M_cn.parquet。耗时：242.32s
+[2024-03-25 00:09:08.586] [INFO]: process file:/root/LLM/code/first/data/raw_data/bell_open_source/train_3.5M_CN.json
+[2024-03-25 10:11:31.676] [INFO]: process file:/root/LLM/code/first/data/raw_data/bell_open_source/train_2M_CN.json
+[2024-03-25 10:15:39.853] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/bell_open_source/train_2M_CN.json，共2000000行，处理后剩余1731148行，保存到文件：/root/LLM/code/first/data/my_data/my_belll_3M_cn.parquet。耗时：248.169s
+[2024-03-25 10:15:39.854] [INFO]: process file:/root/LLM/code/first/data/raw_data/bell_open_source/Belle_open_source_1M.json
+[2024-03-25 10:16:35.523] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/bell_open_source/Belle_open_source_1M.json，共917424行，处理后剩余844154行，保存到文件：/root/LLM/code/first/data/my_data/my_belll_3M_cn.parquet。耗时：55.669s
+[2024-03-25 10:22:15.031] [INFO]: merge into file: /root/LLM/code/first/data/my_data/wiki_zh_simple.parquet, 全部数据共4376211行，清洗后剩余0行
+[2024-03-25 10:28:25.101] [INFO]: merge into file: /root/LLM/code/first/data/my_dataset.parquet, 全部数据共7495717行，清洗后剩余7495572行
+[2024-03-25 18:00:00.060] [INFO]: merge into file: /root/LLM/code/first/data/my_dataset_no_dulpticates.parquet, 全部数据共7495572行，文档去重后剩余7359532行
+[2024-03-25 18:12:04.847] [INFO]: [['file_name', 'count'], ['my_dataset.parquet', 7495572], ['汇总', 7495572]]
+[2024-03-25 19:40:52.816] [INFO]: process file:/root/LLM/code/first/data/raw_data/bell_open_source/Belle_open_source_0.5M.json
+[2024-03-25 19:41:04.843] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/bell_open_source/Belle_open_source_0.5M.json，共519255行，处理后剩余433054行，保存到文件：/root/LLM/code/first/data/my_finetune_data_zh.parquet。耗时：12.0106s
+[2024-03-25 19:41:04.844] [INFO]: process file:/root/LLM/code/first/data/raw_data/bell_open_source/generated_chat_0.4M.json
+[2024-03-25 19:41:14.145] [INFO]: 原始文件:/root/LLM/code/first/data/raw_data/bell_open_source/generated_chat_0.4M.json，共396004行，处理后剩余126182行，保存到文件：/root/LLM/code/first/data/my_finetune_data_zh.parquet。耗时：9.3002s
+[2024-03-25 19:41:15.098] [INFO]: [['file_name', 'count'], ['my_dataset.parquet', 7495572], ['my_train_dataset.parquet', 6820976], ['my_valid_dataset.parquet', 18487], ['my_dataset_no_dulpticates.parquet', 7359532], ['my_dataset.shuffle.parquet', 7495572], ['my_test_dataset.parquet', 656109], ['my_finetune_data_zh.parquet', 559236], ['my_baike_qa.parquet', 1322299], ['zhihu_kol.parquet', 973200], ['my_belll_3M_cn.parquet', 2575302], ['my_web_text_zh.parquet', 2624916], ['train-00004-of-00005-c374cc9fbda9fda7.parquet', 201243], ['train-00003-of-00005-1dae36b67c12169f.parquet', 201243], ['train-00001-of-00005-1fc2da944397e9c2.parquet', 201244], ['train-00000-of-00005-a1278ede4e8c5cdb.parquet', 201244], ['train-00002-of-00005-68ced004a1458143.parquet', 201244], ['汇总', 38907419]]
+[2024-03-25 19:41:19.028] [INFO]: [['file_name', 'count'], ['汇总', 0]]
